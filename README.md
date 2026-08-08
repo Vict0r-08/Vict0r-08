@@ -21,9 +21,9 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Vict0r-08/Vict0r-08/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Vict0r-08/Vict0r-08/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Vict0r-08/Vict0r-08/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats-liard-nine-82.vercel.app/api?username=Vict0r-08&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-liard-nine-82.vercel.app/api/top-langs/?username=Vict0r-08&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="200" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vict0r-08&theme=github-dark&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 ###
